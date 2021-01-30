@@ -1,3 +1,3 @@
 # nodejs_course
 udemy nodejs and mongoDB
-#MY IS APP NOTES TAKING APP
+#NOTE TAKING APP USING NODE JS
